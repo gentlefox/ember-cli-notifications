@@ -51,6 +51,7 @@
     "ember-themed-syntax": "0.0.6",
     "loader.js": "^4.0.1",
     "postcss-reporter": "^1.4.1",
+    "postcss-scss": "^0.1.9",
     "stylelint": "^7.1.0",
     "stylelint-config-standard": "^12.0.0"
   },
